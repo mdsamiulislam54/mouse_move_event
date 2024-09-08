@@ -1,0 +1,14 @@
+/* mouse event start */
+/* mouse event start */
+#curser_event{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    height: 80px;
+    pointer-events: none;
+    border-radius: 100%;
+    background-color: rgba(0, 0, 255, 0.362);
+    scroll-behavior: smooth;
+
+}
